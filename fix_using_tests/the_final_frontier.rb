@@ -17,5 +17,3 @@ def engage
   date = generate_star_date
   binding.pry
 end
-
-engage()
